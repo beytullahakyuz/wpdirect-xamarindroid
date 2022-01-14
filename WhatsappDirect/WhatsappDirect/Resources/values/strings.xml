@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WPDirect</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblCountry">Country:</string>
+    <string name="unSupportUtf8">UTF-8 encoding error.</string>
+    <string name="notFoundActivity">Whatsapp activity didn\'t found. Please, install Whatsapp and run again.</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnSend">Send</string>
+    <string name="menuTranslate">Translate this app</string>
+    <string name="menuRateApp">Rate this app</string>
+    <string name="menuAbout">About</string>
+    <string name="messageHint">Please input message here</string>
+    <color name="txtcolor_blue">#0000FF</color>
+    <string name="strDeveloper">Developer:</string>
+    <string name="strWeb">Website:</string>
+    <string name="strThankyou">Thank you for your supported.</string>
+    <string name="strThanks">Thanks for translates</string>
+    <string name="mailNotFound">Not found e-mail software!</string>
+    <string name="langCode">EN</string>
+</resources>

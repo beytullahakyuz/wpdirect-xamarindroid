@@ -1,0 +1,21 @@
+<resources>
+
+  <string name="app_name">WPDirect</string>
+  <string name="action_settings">Ayarlar</string>
+  <string name="lblCountry">Ülke:</string>
+  <string name="unSupportUtf8">Karakter çözümleme sorunu!</string>
+  <string name="notFoundActivity">Whatsapp formu bulunamadı. Lütfen, öncelikle whatsapp uygulamasını kurunuz ve uygulamayı tekrar çalıştırınız.</string>
+  <string name="btnClear">Temizle</string>
+  <string name="btnSend">Gönder</string>
+  <string name="menuTranslate">Dil çevirisi yap</string>
+  <string name="menuRateApp">Uygulamayı oyla</string>
+  <string name="menuAbout">Hakkında</string>
+  <string name="messageHint">Lütfen mesajınızı bu alana giriniz</string>
+  <color name="txtcolor_blue">#0000FF</color>
+  <string name="strDeveloper">Geliştirici:</string>
+  <string name="strWeb">Websitesi:</string>
+  <string name="strThankyou">Desteğiniz için teşekkür ederim.</string>
+  <string name="strThanks">Çeviriler için teşekkürler</string>
+  <string name="mailNotFound">E-mail gönderme yazılımı bulunamadı!</string>
+  <string name="langCode">TR</string>
+</resources>
